@@ -24,6 +24,7 @@
   quote: >
     <mark>Java</mark> <mark>Micro Focus Fortify</mark>
   description: | # this will include new lines to allow paragraphs    
+    
     * Reviewing source code to find potential vulnerabilities
     * Recommendations for avoiding vulnerabilities
 
@@ -33,22 +34,29 @@
   job_title: Lead Java Developer
   dates: April 2016 - September 2017
   quote: >
-    <mark>Java</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>IBM DB2</mark>
+    <mark>Java</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>IBM DB2</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Javascript</mark>
   description: | # this will include new lines to allow paragraphs
-    * Project for communications between the bank and Federal tax department
+    Project for communications between the bank and Federal tax department
+
+    From the tech side it was a typical enterprise project with Spring and Hibernate on the backend and HTML, CSS, Jquery on the frontend. Nothing special, no rocket science.
+    The most interesting part here was Scrum. Or rather that it was a great team of professionals with a project which was perfectly suitable for Scrum.
+    Really amazing experience with canonical Scrum. This experience gave me understanding of how Scrum should work and what type of projects are fits Scrum best.
+    
 
 - layout: left
   company: EST Technologies
   link: estaxi.ru
   job_title: Senior Java Developer
   dates: June 2012 - April 2016
+  quote: > 
+    <mark>Java</mark> <mark>Netty</mark> <mark>Cassandra</mark> <mark>PostgreSQL</mark> <mark>Vertx.io</mark> <mark>Elasticsearch</mark> <mark>Akka</mark> <mark>Grails</mark>
   description: | # this will include new lines to allow paragraphs
+    
     - Interviewing candidates for the java developer position
     - Training junior java developers
     - System-level architecture creation
     - Application-level architecture creation(distributed stateless internal API service, custom Oracle-to-PostgreSQL&Cassandra replication service, integration with external services)
-  quote: > 
-    <mark>Java</mark> <mark>Netty</mark> <mark>Cassandra</mark> <mark>PostgreSQL</mark> <mark>Vertx.io</mark> <mark>Elasticsearch</mark> <mark>Akka</mark> <mark>Grails</mark>
+  
 
 - layout: left
   company: Gehtsoft
