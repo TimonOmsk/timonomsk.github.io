@@ -6,6 +6,7 @@
   quote: >
     <mark>Java</mark> <mark>Akka</mark> <mark>Netty</mark> <mark>PostgreSQL</mark> <mark>Agile</mark> <mark>Scrum</mark> <mark>People Management</mark> <mark>Interviews</mark> <mark>Lead</mark>
   description: | # this will include new lines to allow paragraphs
+
     Lead Java Developer hat responsibilities:
       * JavaSE development.
 
@@ -22,11 +23,11 @@
   job_title: Application Securiy Analyst
   dates: October 2017 - February 2018
   quote: >
-    <mark>Java</mark> <mark>Micro Focus Fortify</mark>
-  description: | # this will include new lines to allow paragraphs    
-    
-    * Reviewing source code to find potential vulnerabilities
-    * Recommendations for avoiding vulnerabilities
+    <mark>Java</mark> <mark>Micro Focus Fortify</mark> <mark>OWASP</mark> <mark>Application Security</mark> <mark>SonarQube</mark>
+  description: | # this will include new lines to allow paragraphs       
+    A little experiment with another specialization. I learned about application security itself, best practices how to find and avoid vulnerabilities at the source code level,
+    industry standards things to make application more secure. 
+    My duties were reviewing source code to find potential vulnerabilities and provide recommendations for avoiding that vulnerabilities.
 
 - layout: left
   company: Luxoft (Customer - Raiffeisen Russia)
@@ -36,7 +37,7 @@
   quote: >
     <mark>Java</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>IBM DB2</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Javascript</mark>
   description: | # this will include new lines to allow paragraphs
-    Project for communications between the bank and Federal tax department
+    Project for communication between bank and the Federal Tax Department
 
     From the tech side it was a typical enterprise project with Spring and Hibernate on the backend and HTML, CSS, Jquery on the frontend. Nothing special, no rocket science.
     The most interesting part here was Scrum. Or rather that it was a great team of professionals with a project which was perfectly suitable for Scrum.
@@ -51,7 +52,6 @@
   quote: > 
     <mark>Java</mark> <mark>Netty</mark> <mark>Cassandra</mark> <mark>PostgreSQL</mark> <mark>Vertx.io</mark> <mark>Elasticsearch</mark> <mark>Akka</mark> <mark>Grails</mark>
   description: | # this will include new lines to allow paragraphs
-    
     - Interviewing candidates for the java developer position
     - Training junior java developers
     - System-level architecture creation
@@ -64,8 +64,8 @@
   job_title: Software Engineer in Test
   dates: June 2008 - June 2012
   quote: >
-    <mark>Java</mark> <mark>Lua</mark> <mark>C#</mark> <mark>VBA</mark>
-  description: | # this will include new lines to allow paragraphs
+    <mark>Java</mark> <mark>Lua</mark> <mark>C#</mark> <mark>VBA</mark> <mark>Forex</mark> <mark>Automated trading</mark>
+  description: | # this will include new lines to allow paragraphs    
     - Development of automated tests for the ForexConnectAPI
     - Development of automated trading advisors for the forex market(Lua, C#, C++, VBA)
     - Testing Automated Trading Advisors and Technical Indicators for FXCM Trading Station Platform. Advisors and indicators was written in Lua programming language
