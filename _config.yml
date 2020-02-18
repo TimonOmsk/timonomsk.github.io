@@ -18,6 +18,25 @@ about_profile_image: images/personal.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dmitry and I'm a <mark>Java Developer</mark> with a pretty good <mark>soft skills</mark>. 
 
+  My hard skills strengths
+  * Good knowledge of JVM platform. Including <mark>JMM</mark> <mark>Multithreading</mark> <mark>Collections</mark>
+  * I'm not afraid of <mark>legacy code</mark>(although as a typical developer I prefer the greenfield projects). 
+  * I like to explore new technologies, and because of that I have wide knowledge in other programming languages(<mark>Javascript</mark> <mark>C#</mark> <mark>Lua</mark>)
+    
+  My soft skills strengths 
+  * <mark>Leadership</mark>
+  * <mark>Responsibility</mark>. And by "responsibility" I mean that I'm ready to take responsibility for feature, for team, for project.
+  * I tried the different versions of <mark>Scrum</mark> :) From ScrumBut to canonical Scrum
+  * I made about 100 <mark>interviews</mark> for java developer position(with different seniority level, from juniors to seniors)
+  * Experience in <mark>team transformation</mark>
+  * Experience in <mark>building a team</mark>(and a project) from the scratch
+
+  A little bit of personal philosophy
+  
+  The main motivation for me is a result. If something should be done to move a project forward - I will do it.
+  Develop some new features, refactor legacy code, meeting facilitation, junior developers mentoring, making analytical research. It doesn't matter. 
+  If it helps my team if it helps my project if it helps my company. I will do it. 
+
 # Projects Section
 # projects_title: Projects
 
@@ -25,7 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+# educaton_title: Trainings
 
 # More Section
 # more_title: A Little More About Me
