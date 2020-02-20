@@ -16,16 +16,16 @@ linkedin_username: dgolushko
 # about_title: About Me
 about_profile_image: images/personal.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dmitry and I'm a <mark>Java Developer</mark> with a pretty good <mark>soft skills</mark>. 
+  Hi, my name's Dmitry and I'm a <mark>Java Developer</mark> with a good <mark>leaderpship</mark> and <mark>soft skills</mark>. 
 
   My hard skills strengths
-  * Good knowledge of JVM platform. Including <mark>JMM</mark> <mark>Multithreading</mark> <mark>Collections</mark>
+  * Good knowledge of the JVM platform. Including <mark>JMM</mark> <mark>Multithreading</mark> <mark>Collections</mark>
   * I'm not afraid of <mark>legacy code</mark>(although as a typical developer I prefer the greenfield projects). 
   * I like to explore new technologies, and because of that I have wide knowledge in other programming languages(<mark>Javascript</mark> <mark>C#</mark> <mark>Lua</mark>)
     
   My soft skills strengths 
   * <mark>Leadership</mark>
-  * <mark>Responsibility</mark>. And by "responsibility" I mean that I'm ready to take responsibility for feature, for team, for project.
+  * <mark>Responsibility</mark>. And by "responsibility" I mean that I'm ready to take responsibility for a feature, for a team, for a project.
   * I tried the different versions of <mark>Scrum</mark> :) From ScrumBut to canonical Scrum
   * I made about 100 <mark>interviews</mark> for java developer position(with different seniority level, from juniors to seniors)
   * Experience in <mark>team transformation</mark>
