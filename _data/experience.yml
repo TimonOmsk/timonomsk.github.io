@@ -9,20 +9,20 @@
     I can split my work into two parts. The first part is the programming. It was around 70% of all time.
     The backend team was very stable for the last couple of years so I was hired as a skilled developer to bring some new wave into the team. 
     I made a lot of little improvements in terms of development processes and tools. But the most part of my programming time was dedicated to refactoring.
-    Many core parts of the backend system were refactored. Speaking of technologies it was mostly JavaSE development including Multithreading, Network, Algos and so on.
+    Many core parts of the backend system were refactored. Speaking of technologies it was mostly <mark>JavaSE</mark> development including <mark>Multithreading</mark>, <mark>Network</mark>, <mark>Algos</mark> and so on.
 
-    The second part was the leadership part. As a Lead Java Developer, I was focused on increasing performance and making the working process more comfortable for the team.
-    We made a lot of work on communications and transparency inside the team(daily meetings, retrospectives, code style guides, code review). 
+    The second part was the <mark>leadership</mark> part. As a Lead Java Developer, I was focused on increasing performance and making the working process more comfortable for the team.
+    We made a lot of work on <mark>communications</mark> and <mark>transparency</mark> inside the team(daily meetings, retrospectives, code style guides, code review practice). 
     Coaching, inspiration, motivation, facilitation... Everything that a typical lead should do :)
 
-    In the last couple of months, I'm working as a project lead. There were a lot of small "achievements" for past months, so it's very hard to describe them.
+    In the last couple of months, I'm working as a <mark>Project Lead</mark>. There were a lot of small "achievements" for past months, so it's very hard to describe them.
     The only reasonable thing that I can do is to describe my duties and say that the project is progressing very well :) 
 
     My duties as a Project lead: 
-      * To build and keep effective сommunications between teams.
-      * To keep the teams focused on project's goals
-      * Provide support to the development teams, business, and external partners.
-      * Keep the project on the track
+      * To build and keep <mark>effective сommunications</mark> between teams.
+      * To keep the teams <mark>focused on project's goals</mark>
+      * Provide <mark>support</mark> to the development teams, business, and external partners.
+      * Keep the project <mark>on the track</mark>
       * Resolve conflicts, bottlenecks, and other problems which are connected to the technical part of the project
 
 - layout: left
