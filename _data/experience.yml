@@ -6,14 +6,22 @@
   quote: >
     <mark>Java</mark> <mark>Akka</mark> <mark>Netty</mark> <mark>PostgreSQL</mark> <mark>Agile</mark> <mark>Scrum</mark> <mark>People Management</mark> <mark>Interviews</mark> <mark>Lead</mark>
   description: | # this will include new lines to allow paragraphs
+    I can split my work into two parts. The first part is the programming. It was around 70% of all time.
+    The backend team was very stable for the last couple of years so I was hired as a skilled developer to bring some new wave into the team. 
+    I made a lot of little improvements in terms of development processes and tools. But the most part of my programming time was dedicated to refactoring.
+    Many core parts of the backend system were refactored. Speaking of technologies it was mostly JavaSE development including Multithreading, Network, Algos and so on.
 
-    Lead Java Developer hat responsibilities:
-      * JavaSE development.
+    The second part was the leadership part. As a Lead Java Developer, I was focused on increasing performance and making the working process more comfortable for the team.
+    We made a lot of work on communications and transparency inside the team(daily meetings, retrospectives, code style guides, code review). 
+    Coaching, inspiration, motivation, facilitation... Everything that a typical lead should do :)
 
-    Project tech lead hat responsibilities: 
+    In the last couple of months, I'm working as a project lead. There were a lot of small "achievements" for past months, so it's very hard to describe them.
+    The only reasonable thing that I can do is to describe my duties and say that the project is progressing very well :) 
+
+    My duties as a Project lead: 
       * To build and keep effective сommunications between teams.
       * To keep the teams focused on project's goals
-      * Provide support to the development teams, to business, and to external partners.
+      * Provide support to the development teams, business, and external partners.
       * Keep the project on the track
       * Resolve conflicts, bottlenecks, and other problems which are connected to the technical part of the project
 
@@ -25,9 +33,8 @@
   quote: >
     <mark>Java</mark> <mark>Micro Focus Fortify</mark> <mark>OWASP</mark> <mark>Application Security</mark> <mark>SonarQube</mark>
   description: | # this will include new lines to allow paragraphs       
-    A little experiment with another specialization. I learned about application security itself, best practices how to find and avoid vulnerabilities at the source code level,
-    industry standards things to make application more secure. 
-    My duties were reviewing source code to find potential vulnerabilities and provide recommendations for avoiding that vulnerabilities.
+    A little experiment with another specialization. I learned about tools for security and penetration testing, typical applications' vulnerabilities(XSS, SQL Injection, Clickjacking, etc.) and other security risks.
+    My duties were reviewing source code to find potential vulnerabilities and provide recommendations for avoiding those vulnerabilities.
 
 - layout: left
   company: Luxoft (Customer - Raiffeisen Russia)
@@ -37,27 +44,37 @@
   quote: >
     <mark>Java</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>IBM DB2</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Javascript</mark>
   description: | # this will include new lines to allow paragraphs
-    Project for communication between bank and the Federal Tax Department
+    Project for communication between the bank and the Federal Tax Department
 
-    From the tech side it was a typical enterprise project with Spring and Hibernate on the backend and HTML, CSS, Jquery on the frontend. Nothing special, no rocket science.
+    From the tech side, it was a typical enterprise project with Spring and Hibernate on the backend and HTML, CSS, Jquery on the frontend. Nothing special, no rocket science.
     The most interesting part here was Scrum. Or rather that it was a great team of professionals with a project which was perfectly suitable for Scrum.
-    Really amazing experience with canonical Scrum. This experience gave me understanding of how Scrum should work and what type of projects are fits Scrum best.
+    Really amazing experience with canonical Scrum. This experience gave me an understanding of how Scrum should work and what type of projects are fits Scrum best.
+    
+    Additional things that deserve to be noticed 
+    * Dozens of interviews for the Corporate Junior Programm
+    * Mentoring junior developers from the Corporate Junior Programm
+
     
 
 - layout: left
   company: EST Technologies
   link: estaxi.ru
-  job_title: Senior Java Developer
+  job_title: Senior Java Developer, Backend department
   dates: June 2012 - April 2016
   quote: > 
     <mark>Java</mark> <mark>Netty</mark> <mark>Cassandra</mark> <mark>PostgreSQL</mark> <mark>Vertx.io</mark> <mark>Elasticsearch</mark> <mark>Akka</mark> <mark>Grails</mark>
   description: | # this will include new lines to allow paragraphs
-    - Interviewing candidates for the java developer position
-    - Training junior java developers
-    - System-level architecture creation
-    - Application-level architecture creation(distributed stateless internal API service, custom Oracle-to-PostgreSQL&Cassandra replication service, integration with external services)
+    EST Technologies was focused on creating a B2B system for the complete automatization of taxi companies. Applications for drivers, passengers and dispatchers, billing, IP telephony, and SMS,
+    the market of orders(one taxi company was able to sell order to another company).
+    Very interesting job primarily because of gained technical experience. There were about 100 geographically distributed servers with low quality of internet connection. 
+    So we had strict requirements about the efficiency of communication protocols and the amount of data transferring between servers.
+    
+    Most interesting technologies 
+    - Elastisearch for a search for destinations(streets, places, etc.) 
+    - Cassandra for removing SPOF
+    - Akka, Kafka and Tarantool(tarantool.io, In-memory DB) for collecting real-time information about drivers and for orders distribution.
+    - ZeroMQ for communication between servers(honestly, that was a failure, because ZeroMQ is not very tolerant of connections with low quality)
   
-
 - layout: left
   company: Gehtsoft
   link: gehtsoft.ru
@@ -65,7 +82,7 @@
   dates: June 2008 - June 2012
   quote: >
     <mark>Java</mark> <mark>Lua</mark> <mark>C#</mark> <mark>VBA</mark> <mark>Forex</mark> <mark>Automated trading</mark>
-  description: | # this will include new lines to allow paragraphs    
-    - Development of automated tests for the ForexConnectAPI
-    - Development of automated trading advisors for the forex market(Lua, C#, C++, VBA)
-    - Testing Automated Trading Advisors and Technical Indicators for FXCM Trading Station Platform. Advisors and indicators was written in Lua programming language
+  description: | # this will include new lines to allow paragraphs        
+    - Development of automated tests for the Forex trading API 
+    - Development of automated trading advisors for the forex market(Lua, C#, C++, VBA)    
+    - Testing Automated Trading Advisors and Technical Indicators for the FXCM Trading Station Platform. Advisors and indicators were written in Lua programming language
