@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: TimonOmsk/timonomsk.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -7,6 +7,8 @@ name: Dmitry Golushko, 30yrs
 title: Java Developer, Team Lead, Project Lead
 email: dmitry@golushko.me
 website: golushko.me
+cv_link: https://golushko.me/images/DmitryGolushkoCV_short.docx
+cv_name: Dmitry Golushko CV 
 
 # Social links
 instagram_username: timonomsk
@@ -63,7 +65,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: TimonOmsk/modern-resume-theme
 
 sass:
   sass_dir: _sass
