@@ -18,7 +18,7 @@ linkedin_username: dgolushko
 # about_title: About Me
 about_profile_image: images/personal.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dmitry and I'm a <mark>Java Developer</mark> with a good <mark>leaderpship</mark> and <mark>soft skills</mark>. 
+  Hi, my name's Dmitry and I'm a <mark>Java Developer</mark> with a good <mark>leadership</mark> and <mark>soft skills</mark>. 
 
   My hard skills strengths
   * Good knowledge of the JVM platform. Including <mark>JMM</mark> <mark>Multithreading</mark> <mark>Collections</mark>
