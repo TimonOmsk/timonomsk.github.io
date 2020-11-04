@@ -1,7 +1,7 @@
 - layout: left
-  company: Microfocus
-  link: https://www.microfocus.com/
-  job_title: Senior Software Engineer, Fortify
+  company: Micro Focus - Fortify Static Code Analyzer
+  link: https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview
+  job_title: Senior Software Engineer
   dates: May 2020 - Present
   quote: >
     <mark>Golang</mark> <mark>Java</mark> <mark>Fortify</mark> <mark>SAST</mark>
