@@ -1,8 +1,17 @@
 - layout: left
+  company: Microfocus
+  link: https://www.microfocus.com/
+  job_title: Senior Software Engineer, Fortify
+  dates: May 2020 - Present
+  quote: >
+    <mark>Golang</mark> <mark>Java</mark> <mark>Fortify</mark> <mark>SAST</mark>
+  description: |
+    Compiler frontend for Golang language. Frontend translates Golang code to internal Fortify SCA language. 
+- layout: left
   company: Neolab
   link: neolab.io
   job_title: Lead Java Developer, Project tech lead
-  dates: February 2018 - Present (remote since May`19)
+  dates: February 2018 - May 2020 (remote since May`19)
   quote: >
     <mark>Java</mark> <mark>Akka</mark> <mark>Netty</mark> <mark>PostgreSQL</mark> <mark>Agile</mark> <mark>Scrum</mark> <mark>People Management</mark> <mark>Interviews</mark> <mark>Lead</mark>
   description: | # this will include new lines to allow paragraphs
