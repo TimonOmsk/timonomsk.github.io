@@ -146,27 +146,27 @@ content:
           - Development of automated tests for the Forex trading API 
           - Development of automated trading advisors for the forex market(Lua, C#, C++, VBA)    
           - Testing Automated Trading Advisors and Technical Indicators for the FXCM Trading Station Platform. Advisors and indicators were written in Lua programming language
-  title: Trainings
-  layout: list
-    content: 
-      - layout: left
-        title: Luxoft Leadership Academy
-        caption: 2017
-        description: | # this will include new lines to allow paragraphs
-          Internal training for lead developers and team leads. 
+  - title: Trainings
+    layout: list
+      content: 
+        - layout: left
+          title: Luxoft Leadership Academy
+          caption: 2017
+          description: | # this will include new lines to allow paragraphs
+            Internal training for lead developers and team leads. 
 
-      - layout: left
-        title: PROFESSIONAL SCRUM FOUNDATIONS™ TRAINING
-        caption: 2017
-        description: | # this will include new lines to allow paragraphs
-          Professional Scrum Foundations™ (PSF) is a 2-day course that provides the foundational knowledge needed to work with Scrum in a highly practical way. The course is a combination of instruction and team based exercises where students experience how the Scrum framework improves product delivery efforts. 
+        - layout: left
+          title: PROFESSIONAL SCRUM FOUNDATIONS™ TRAINING
+          caption: 2017
+          description: | # this will include new lines to allow paragraphs
+            Professional Scrum Foundations™ (PSF) is a 2-day course that provides the foundational knowledge needed to work with Scrum in a highly practical way. The course is a combination of instruction and team based exercises where students experience how the Scrum framework improves product delivery efforts. 
 
-      - layout: left
-        title: Languages  
-        description: | # this will include new lines to allow paragraphs
-          * <mark>Russian</mark> - Native
-          * <mark>English</mark> - Professional working proficiency
-          * <mark>Czech</mark> - Elementary proficiency
+        - layout: left
+          title: Languages  
+          description: | # this will include new lines to allow paragraphs
+            * <mark>Russian</mark> - Native
+            * <mark>English</mark> - Professional working proficiency
+            * <mark>Czech</mark> - Elementary proficiency
 
 # More Section
 # more_title: A Little More About Me
