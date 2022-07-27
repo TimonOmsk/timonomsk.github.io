@@ -47,28 +47,28 @@ content:
     layout: list
     content:
       - layout: left
-        company: Kasten by Veeam
+        title: Kasten by Veeam
         link: https://kasten.io
-        job_title: Software Developer
-        dates: November 2021 - Present
+        sub_title: Software Developer
+        caption: November 2021 - Present
         quote: >
           <mark>Golang</mark> <mark>Kubernetes</mark> <mark>Helm</mark>
         description: |
           Working on all parts of K10 by Veeam. 
       - layout: left
-        company: Micro Focus - Fortify Static Code Analyzer
+        title: Micro Focus - Fortify Static Code Analyzer
         link: https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview
-        job_title: Senior Software Engineer
-        dates: May 2020 - November 2021
+        sub_title: Senior Software Engineer
+        caption: May 2020 - November 2021
         quote: >
           <mark>Golang</mark> <mark>Java</mark> <mark>Fortify</mark> <mark>SAST</mark>
         description: |
           Compiler frontend for Golang language. Frontend translates Golang code to internal Fortify SCA language. 
       - layout: left
-        company: Neolab
+        title: Neolab
         link: neolab.io
-        job_title: Lead Java Developer, Project tech lead
-        dates: February 2018 - May 2020 (remote since May`19)
+        sub_title: Lead Java Developer, Project tech lead
+        caption: February 2018 - May 2020 (remote since May`19)
         quote: >
           <mark>Java</mark> <mark>Akka</mark> <mark>Netty</mark> <mark>PostgreSQL</mark> <mark>Agile</mark> <mark>Scrum</mark> <mark>People Management</mark> <mark>Interviews</mark> <mark>Lead</mark>
         description: | # this will include new lines to allow paragraphs
@@ -92,10 +92,10 @@ content:
             * Resolve conflicts, bottlenecks, and other problems which are connected to the technical part of the project
 
       - layout: left
-        company: Luxoft (Customer - BT Global Services)
+        title: Luxoft (Customer - BT Global Services)
         link: luxoft.com
-        job_title: Application Securiy Analyst
-        dates: October 2017 - February 2018
+        sub_title: Application Securiy Analyst
+        caption: October 2017 - February 2018
         quote: >
           <mark>Java</mark> <mark>Micro Focus Fortify</mark> <mark>OWASP</mark> <mark>Application Security</mark> <mark>SonarQube</mark>
         description: | # this will include new lines to allow paragraphs       
@@ -103,10 +103,10 @@ content:
           My duties were reviewing source code to find potential vulnerabilities and provide recommendations for avoiding those vulnerabilities.
 
       - layout: left
-        company: Luxoft (Customer - Raiffeisen Russia)
+        title: Luxoft (Customer - Raiffeisen Russia)
         link: luxoft.com
-        job_title: Lead Java Developer
-        dates: April 2016 - September 2017
+        sub_title: Lead Java Developer
+        caption: April 2016 - September 2017
         quote: >
           <mark>Java</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>IBM DB2</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Javascript</mark>
         description: | # this will include new lines to allow paragraphs
@@ -123,10 +123,10 @@ content:
           
 
       - layout: left
-        company: EST Technologies
+        title: EST Technologies
         link: estaxi.ru
-        job_title: Senior Java Developer, Backend department
-        dates: June 2012 - April 2016
+        sub_title: Senior Java Developer, Backend department
+        caption: June 2012 - April 2016
         quote: > 
           <mark>Java</mark> <mark>Netty</mark> <mark>Cassandra</mark> <mark>PostgreSQL</mark> <mark>Vertx.io</mark> <mark>Elasticsearch</mark> <mark>Akka</mark> <mark>Grails</mark>
         description: | # this will include new lines to allow paragraphs
@@ -142,10 +142,10 @@ content:
           - ZeroMQ for communication between servers(honestly, that was a failure, because ZeroMQ is not very tolerant of connections with low quality)
         
       - layout: left
-        company: Gehtsoft
+        title: Gehtsoft
         link: gehtsoft.ru
-        job_title: Software Engineer in Test
-        dates: June 2008 - June 2012
+        sub_title: Software Engineer in Test
+        caption: June 2008 - June 2012
         quote: >
           <mark>Java</mark> <mark>Lua</mark> <mark>C#</mark> <mark>VBA</mark> <mark>Forex</mark> <mark>Automated trading</mark>
         description: | # this will include new lines to allow paragraphs        
@@ -156,19 +156,19 @@ content:
   layout: list
     content: 
       - layout: left
-        name: Luxoft Leadership Academy
-        dates: 2017
+        title: Luxoft Leadership Academy
+        caption: 2017
         description: | # this will include new lines to allow paragraphs
           Internal training for lead developers and team leads. 
 
       - layout: left
-        name: PROFESSIONAL SCRUM FOUNDATIONS™ TRAINING
-        dates: 2017
+        title: PROFESSIONAL SCRUM FOUNDATIONS™ TRAINING
+        caption: 2017
         description: | # this will include new lines to allow paragraphs
           Professional Scrum Foundations™ (PSF) is a 2-day course that provides the foundational knowledge needed to work with Scrum in a highly practical way. The course is a combination of instruction and team based exercises where students experience how the Scrum framework improves product delivery efforts. 
 
       - layout: left
-        name: Languages  
+        title: Languages  
         description: | # this will include new lines to allow paragraphs
           * <mark>Russian</mark> - Native
           * <mark>English</mark> - Professional working proficiency
