@@ -3,7 +3,7 @@ repository: TimonOmsk/timonomsk.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Dmitry Golushko, 33yrs
+name: Dmitry Golushko, 32yrs
 title: Golang Developer, Java Developer, Team Lead
 email: dmitry@golushko.me
 website: golushko.me
@@ -19,9 +19,10 @@ github_username: TimonOmsk
 # about_title: About Me
 about_profile_image: images/personal.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dmitry and I'm a <mark>Java Developer</mark> with a good <mark>leadership</mark> and <mark>soft skills</mark>. 
+  Hi, my name's Dmitry and I'm a <mark>Golang Developer</mark> and ex-<mark>Java Developer</mark> with a good <mark>leadership</mark> and <mark>soft skills</mark>. 
 
-  My hard skills strengths
+  My hard skills strengths is:
+  * 
   * Good knowledge of the JVM platform. Including <mark>JMM</mark> <mark>Multithreading</mark> <mark>Collections</mark>
   * I'm not afraid of <mark>legacy code</mark>(although as a typical developer I prefer the greenfield projects). 
   * I like to explore new technologies, and because of that I have wide knowledge in other programming languages(<mark>Javascript</mark> <mark>C#</mark> <mark>Lua</mark>)
