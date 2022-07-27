@@ -90,7 +90,6 @@ content:
             * Provide <mark>support</mark> to the development teams, business, and external partners.
             * Keep the project <mark>on the track</mark>
             * Resolve conflicts, bottlenecks, and other problems which are connected to the technical part of the project
-
       - layout: left
         title: Luxoft (Customer - BT Global Services)
         link: luxoft.com
@@ -101,7 +100,6 @@ content:
         description: | # this will include new lines to allow paragraphs       
           A little experiment with another specialization. I learned about tools for security and penetration testing, typical applications' vulnerabilities(XSS, SQL Injection, Clickjacking, etc.) and other security risks.
           My duties were reviewing source code to find potential vulnerabilities and provide recommendations for avoiding those vulnerabilities.
-
       - layout: left
         title: Luxoft (Customer - Raiffeisen Russia)
         link: luxoft.com
@@ -118,10 +116,7 @@ content:
           
           Additional things that deserve to be noticed 
           * Dozens of interviews for the Corporate Junior Programm
-          * Mentoring junior developers from the Corporate Junior Programm
-
-          
-
+          * Mentoring junior developers from the Corporate Junior Program
       - layout: left
         title: EST Technologies
         link: estaxi.ru
@@ -139,8 +134,7 @@ content:
           - Elastisearch for a search for destinations(streets, places, etc.) 
           - Cassandra for removing SPOF
           - Akka, Kafka and Tarantool(tarantool.io, In-memory DB) for collecting real-time information about drivers and for orders distribution.
-          - ZeroMQ for communication between servers(honestly, that was a failure, because ZeroMQ is not very tolerant of connections with low quality)
-        
+          - ZeroMQ for communication between servers(honestly, that was a failure, because ZeroMQ is not very tolerant of connections with low quality)        
       - layout: left
         title: Gehtsoft
         link: gehtsoft.ru
