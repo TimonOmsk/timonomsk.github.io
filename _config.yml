@@ -165,19 +165,17 @@ content:
           * <mark>Russian</mark> - Native
           * <mark>English</mark> - Professional working proficiency
           * <mark>Czech</mark> - Elementary proficiency
-
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  You won't find any of my projects in open source. It's not because I'm a lazy person :) 
-  I would better make some additional stuff for my main job(helpful utils, research, experiments).
-  My job is always my hobby and I will do my best to achieve my current project's goals. 
-  
-  But job is not the only thing that I like :) So here is some things that I like besides my job
-  * Collectible card games like Magic The Gathering, Gwent.  
-  * Cars. I really enjoy driving. I can spend hours just driving around the city. 
-  * My family :) 
-
+  - title: A Little More About Me
+    layout: text
+    content: |  
+      You won't find any of my projects in open source. It's not because I'm a lazy person :) 
+      I would better make some additional stuff for my main job(helpful utils, research, experiments).
+      My job is always my hobby and I will do my best to achieve my current project's goals. 
+      
+      But job is not the only thing that I like :) So here is some things that I like besides my job
+      * Collectible card games like Magic The Gathering, Gwent.  
+      * Cars. I really enjoy driving. I can spend hours just driving around the city. 
+      * My family :) 
 
 # Footer
 footer_show_references: true
