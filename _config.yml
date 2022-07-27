@@ -41,14 +41,138 @@ about_content: | # this will include new lines to allow paragraphs
   Develop some new features, refactor legacy code, meeting facilitation, junior developers mentoring, making analytical research. It doesn't matter. 
   If it helps my team if it helps my project if it helps my company. I will do it. 
 
-# Projects Section
-# projects_title: Projects
 
-# Experience Section
-# experience_title: Experience
+content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        company: Kasten by Veeam
+        link: https://kasten.io
+        job_title: Software Developer
+        dates: November 2021 - Present
+        quote: >
+          <mark>Golang</mark> <mark>Kubernetes</mark> <mark>Helm</mark>
+        description: |
+          Working on all parts of K10 by Veeam. 
+      - layout: left
+        company: Micro Focus - Fortify Static Code Analyzer
+        link: https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview
+        job_title: Senior Software Engineer
+        dates: May 2020 - November 2021
+        quote: >
+          <mark>Golang</mark> <mark>Java</mark> <mark>Fortify</mark> <mark>SAST</mark>
+        description: |
+          Compiler frontend for Golang language. Frontend translates Golang code to internal Fortify SCA language. 
+      - layout: left
+        company: Neolab
+        link: neolab.io
+        job_title: Lead Java Developer, Project tech lead
+        dates: February 2018 - May 2020 (remote since May`19)
+        quote: >
+          <mark>Java</mark> <mark>Akka</mark> <mark>Netty</mark> <mark>PostgreSQL</mark> <mark>Agile</mark> <mark>Scrum</mark> <mark>People Management</mark> <mark>Interviews</mark> <mark>Lead</mark>
+        description: | # this will include new lines to allow paragraphs
+          I can split my work into two parts. The first part is the programming. It was around 70% of all time.
+          The backend team was very stable for the last couple of years so I was hired as a skilled developer to bring some new wave into the team. 
+          I made a lot of little improvements in terms of development processes and tools. But the most part of my programming time was dedicated to refactoring.
+          Many core parts of the backend system were refactored. Speaking of technologies it was mostly <mark>JavaSE</mark> development including <mark>Multithreading</mark>, <mark>Network</mark>, <mark>Algos</mark> and so on.
 
-# Education Section
-# educaton_title: Trainings
+          The second part was the <mark>leadership</mark> part. As a Lead Java Developer, I was focused on increasing performance and making the working process more comfortable for the team.
+          We made a lot of work on <mark>communications</mark> and <mark>transparency</mark> inside the team(daily meetings, retrospectives, code style guides, code review practice). 
+          Coaching, inspiration, motivation, facilitation... Everything that a typical lead should do :)
+
+          In the last couple of months, I'm working as a <mark>Project Lead</mark>. There were a lot of small "achievements" for past months, so it's very hard to describe them.
+          The only reasonable thing that I can do is to describe my duties and say that the project is progressing very well :) 
+
+          My duties as a Project lead: 
+            * To build and keep <mark>effective сommunications</mark> between teams.
+            * To keep the teams <mark>focused on project's goals</mark>
+            * Provide <mark>support</mark> to the development teams, business, and external partners.
+            * Keep the project <mark>on the track</mark>
+            * Resolve conflicts, bottlenecks, and other problems which are connected to the technical part of the project
+
+      - layout: left
+        company: Luxoft (Customer - BT Global Services)
+        link: luxoft.com
+        job_title: Application Securiy Analyst
+        dates: October 2017 - February 2018
+        quote: >
+          <mark>Java</mark> <mark>Micro Focus Fortify</mark> <mark>OWASP</mark> <mark>Application Security</mark> <mark>SonarQube</mark>
+        description: | # this will include new lines to allow paragraphs       
+          A little experiment with another specialization. I learned about tools for security and penetration testing, typical applications' vulnerabilities(XSS, SQL Injection, Clickjacking, etc.) and other security risks.
+          My duties were reviewing source code to find potential vulnerabilities and provide recommendations for avoiding those vulnerabilities.
+
+      - layout: left
+        company: Luxoft (Customer - Raiffeisen Russia)
+        link: luxoft.com
+        job_title: Lead Java Developer
+        dates: April 2016 - September 2017
+        quote: >
+          <mark>Java</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>IBM DB2</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Javascript</mark>
+        description: | # this will include new lines to allow paragraphs
+          Project for communication between the bank and the Federal Tax Department
+
+          From the tech side, it was a typical enterprise project with Spring and Hibernate on the backend and HTML, CSS, Jquery on the frontend. Nothing special, no rocket science.
+          The most interesting part here was Scrum. Or rather that it was a great team of professionals with a project which was perfectly suitable for Scrum.
+          Really amazing experience with canonical Scrum. This experience gave me an understanding of how Scrum should work and what type of projects are fits Scrum best.
+          
+          Additional things that deserve to be noticed 
+          * Dozens of interviews for the Corporate Junior Programm
+          * Mentoring junior developers from the Corporate Junior Programm
+
+          
+
+      - layout: left
+        company: EST Technologies
+        link: estaxi.ru
+        job_title: Senior Java Developer, Backend department
+        dates: June 2012 - April 2016
+        quote: > 
+          <mark>Java</mark> <mark>Netty</mark> <mark>Cassandra</mark> <mark>PostgreSQL</mark> <mark>Vertx.io</mark> <mark>Elasticsearch</mark> <mark>Akka</mark> <mark>Grails</mark>
+        description: | # this will include new lines to allow paragraphs
+          EST Technologies was focused on creating a B2B system for the complete automatization of taxi companies. Applications for drivers, passengers and dispatchers, billing, IP telephony, and SMS,
+          the market of orders(one taxi company was able to sell order to another company).
+          Very interesting job primarily because of gained technical experience. There were about 100 geographically distributed servers with low quality of internet connection. 
+          So we had strict requirements about the efficiency of communication protocols and the amount of data transferring between servers.
+          
+          Most interesting technologies 
+          - Elastisearch for a search for destinations(streets, places, etc.) 
+          - Cassandra for removing SPOF
+          - Akka, Kafka and Tarantool(tarantool.io, In-memory DB) for collecting real-time information about drivers and for orders distribution.
+          - ZeroMQ for communication between servers(honestly, that was a failure, because ZeroMQ is not very tolerant of connections with low quality)
+        
+      - layout: left
+        company: Gehtsoft
+        link: gehtsoft.ru
+        job_title: Software Engineer in Test
+        dates: June 2008 - June 2012
+        quote: >
+          <mark>Java</mark> <mark>Lua</mark> <mark>C#</mark> <mark>VBA</mark> <mark>Forex</mark> <mark>Automated trading</mark>
+        description: | # this will include new lines to allow paragraphs        
+          - Development of automated tests for the Forex trading API 
+          - Development of automated trading advisors for the forex market(Lua, C#, C++, VBA)    
+          - Testing Automated Trading Advisors and Technical Indicators for the FXCM Trading Station Platform. Advisors and indicators were written in Lua programming language
+  title: Trainings
+  layout: list
+    content: 
+      - layout: left
+        name: Luxoft Leadership Academy
+        dates: 2017
+        description: | # this will include new lines to allow paragraphs
+          Internal training for lead developers and team leads. 
+
+      - layout: left
+        name: PROFESSIONAL SCRUM FOUNDATIONS™ TRAINING
+        dates: 2017
+        description: | # this will include new lines to allow paragraphs
+          Professional Scrum Foundations™ (PSF) is a 2-day course that provides the foundational knowledge needed to work with Scrum in a highly practical way. The course is a combination of instruction and team based exercises where students experience how the Scrum framework improves product delivery efforts. 
+
+      - layout: left
+        name: Languages  
+        description: | # this will include new lines to allow paragraphs
+          * <mark>Russian</mark> - Native
+          * <mark>English</mark> - Professional working proficiency
+          * <mark>Czech</mark> - Elementary proficiency
 
 # More Section
 # more_title: A Little More About Me
