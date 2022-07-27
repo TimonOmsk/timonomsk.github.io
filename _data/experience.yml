@@ -1,8 +1,17 @@
 - layout: left
+  company: Kasten by Veeam
+  link: https://kasten.io
+  job_title: Software Developer
+  dates: November 2021 - Present
+  quote: >
+    <mark>Golang</mark> <mark>Kubernetes</mark> <mark>Helm</mark>
+  description: |
+    Working on all parts of K10 by Veeam. 
+- layout: left
   company: Micro Focus - Fortify Static Code Analyzer
   link: https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview
   job_title: Senior Software Engineer
-  dates: May 2020 - Present
+  dates: May 2020 - November 2021
   quote: >
     <mark>Golang</mark> <mark>Java</mark> <mark>Fortify</mark> <mark>SAST</mark>
   description: |

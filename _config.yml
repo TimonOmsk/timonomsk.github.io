@@ -3,8 +3,8 @@ repository: TimonOmsk/timonomsk.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Dmitry Golushko, 30yrs
-title: Java Developer, Team Lead, Project Lead
+name: Dmitry Golushko, 33yrs
+title: Golang Developer, Java Developer, Team Lead
 email: dmitry@golushko.me
 website: golushko.me
 cv_link: https://golushko.me/images/DmitryGolushkoCV_short.docx
@@ -13,6 +13,7 @@ cv_name: Dmitry Golushko CV
 # Social links
 instagram_username: timonomsk
 linkedin_username: dgolushko
+github_username: TimonOmsk
 
 # About Section
 # about_title: About Me
