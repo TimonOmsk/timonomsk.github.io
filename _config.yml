@@ -10,7 +10,7 @@ name: Dmitry Golushko, 32yrs
 title: Golang Developer, Java Developer, Team Lead
 email: dmitry@golushko.me
 website: golushko.me
-cv_link: https://golushko.me/images/DmitryGolushkoCV_short.docx
+cv_link: https://golushko.me/images/DmitryGolushkoCV_short.pdf
 cv_name: Dmitry Golushko CV 
 
 # Dark Mode (true/false/never)
@@ -25,16 +25,14 @@ github_username: TimonOmsk
 # about_title: About Me
 about_profile_image: images/personal.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dmitry and I'm a <mark>Golang Developer</mark> and ex-<mark>Java Developer</mark> with a good <mark>leadership</mark> and <mark>soft skills</mark>. 
+  Hi, my name's Dmitry and I'm a <mark>Golang Developer</mark> and ex-<mark>Java Developer</mark>. 
 
-  My hard skills strengths is:
-  * 
+  Main things you need to know about me:
+  * Golang. I've started with internals of Golang in Micro Focus Fortify SCA and now working with <mark>Cloud-native</mark> <mark>Kubernetes</mark> application.
   * Good knowledge of the JVM platform. Including <mark>JMM</mark> <mark>Multithreading</mark> <mark>Collections</mark>
-  * I'm not afraid of <mark>legacy code</mark>(although as a typical developer I prefer the greenfield projects). 
-  * I like to explore new technologies, and because of that I have wide knowledge in other programming languages(<mark>Javascript</mark> <mark>C#</mark> <mark>Lua</mark>)
+  * I'm not afraid of <mark>legacy code</mark>(although as a typical developer I prefer the greenfield projects)   
     
-  My soft skills strengths 
-  * <mark>Leadership</mark>
+  Other facts :) :
   * <mark>Responsibility</mark>. And by "responsibility" I mean that I'm ready to take responsibility for a feature, for a team, for a project.
   * I tried the different versions of <mark>Scrum</mark> :) From ScrumBut to canonical Scrum
   * I made about 100 <mark>interviews</mark> for java developer position(with different seniority level, from juniors to seniors)
@@ -44,7 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
   A little bit of personal philosophy
   
   The main motivation for me is a result. If something should be done to move a project forward - I will do it.
-  Develop some new features, refactor legacy code, meeting facilitation, junior developers mentoring, making analytical research. It doesn't matter. 
+  Develop some new features, refactor legacy code, meeting facilitation, junior developers mentoring, performing analytical research. It doesn't matter. 
   If it helps my team if it helps my project if it helps my company. I will do it. 
 
 
@@ -58,18 +56,18 @@ content:
         sub_title: Software Developer
         caption: November 2021 - Present
         quote: >
-          <mark>Golang</mark> <mark>Kubernetes</mark> <mark>Helm</mark>
+          <mark>Golang</mark> <mark>Kubernetes</mark> <mark>Helm</mark> <mark>EKS</mark>
         description: |
-          Working on all parts of K10 by Veeam. 
+          K8s native backup solution. Working on all parts of K10 by Veeam. 
       - layout: left
         title: Micro Focus - Fortify Static Code Analyzer
         link: https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview
         sub_title: Senior Software Engineer
         caption: May 2020 - November 2021
         quote: >
-          <mark>Golang</mark> <mark>Java</mark> <mark>Fortify</mark> <mark>SAST</mark>
+          <mark>Golang</mark> <mark>Java</mark> <mark>Fortify</mark> <mark>SAST</mark> <mark>AST</mark>
         description: |
-          Compiler frontend for Golang language. Frontend translates Golang code to internal Fortify SCA language. 
+          Compiler frontend for Golang language. Frontend translates Golang code to internal Fortify SCA representation. 
       - layout: left
         title: Neolab
         link: neolab.io
