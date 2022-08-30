@@ -58,7 +58,9 @@ content:
         quote: >
           <mark>Golang</mark> <mark>Kubernetes</mark> <mark>Helm</mark> <mark>EKS</mark>
         description: |
-          K8s native backup solution. Working on all parts of K10 by Veeam. 
+          K8s native backup solution. Working on all parts of K10 by Veeam. Hard to tell about the ongoing project.
+          Heh... doing everything the project needs.
+          For example, I made a PR for 3rd party project to get the support for IPv6 family(I hope when you're reading this that PR has been already merged - https://github.com/emissary-ingress/emissary/pull/4301)
       - layout: left
         title: Micro Focus - Fortify Static Code Analyzer
         link: https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview
@@ -67,7 +69,8 @@ content:
         quote: >
           <mark>Golang</mark> <mark>Java</mark> <mark>Fortify</mark> <mark>SAST</mark> <mark>AST</mark>
         description: |
-          Compiler frontend for Golang language. Frontend translates Golang code to internal Fortify SCA representation. 
+          Compiler frontend for Golang language. Frontend translates Golang code to internal Fortify SCA representation. I took the project after the previous team, made some refactoring to keep project follow the Go-way. 
+          Implemeted support for Golang modules and a lot of small features of Golang.
       - layout: left
         title: Neolab
         link: neolab.io
