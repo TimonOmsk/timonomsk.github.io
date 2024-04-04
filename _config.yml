@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dmitry Golushko, 34yrs
-title: Golang Developer, Java Developer, Team Lead
+title: Software Engineer
 email: job.dmitry.golushko@proton.me
 website: https://timonomsk.github.io/
 cv_link: https://timonomsk.github.io/images/DmitryGolushkoCV_short.pdf
@@ -53,9 +53,9 @@ content:
         description: |
           Kubernetes data protection solution. Golang, Kubernetes, Helm, Openshift, Docker, K8s Custom Resources, OpenAPI. 
           Here is some public examples of my work:
-          * https://github.com/emissary-ingress/emissary/pull/4301 - Fix for Emissary-ingress Gateway API server for IPv6 compatibility
-          * https://github.com/VeeamHub/veeam-vbr-sdk-go/ - New version of Golang client for VBR REST API 
-          * https://github.com/kanisterio/kanister/commits/master/?author=TimonOmsk - Commits into opensource project internally used by K10 (donated to CNCF)
+          * [Fix for Emissary-ingress Gateway API server for IPv6 compatibility](https://github.com/emissary-ingress/emissary/pull/4301) - 
+          * [New version of Golang client for VBR REST API](https://github.com/VeeamHub/veeam-vbr-sdk-go/)
+          * [Commits into opensource project internally used by K10 (donated to CNCF)](https://github.com/kanisterio/kanister/commits/master/?author=TimonOmsk)
       - layout: left
         title: Micro Focus - Fortify Static Code Analyzer
         link: https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview
@@ -74,24 +74,7 @@ content:
         quote: >
           <mark>Java</mark> <mark>Akka</mark> <mark>Netty</mark> <mark>PostgreSQL</mark> <mark>Agile</mark> <mark>Scrum</mark> <mark>People Management</mark> <mark>Interviews</mark> <mark>Lead</mark>
         description: | 
-          I can split my work into two parts. The first part is the programming. It was around 70% of all time.
-          The backend team was very stable for the last couple of years so I was hired as a skilled developer to bring some new wave into the team. 
-          I made a lot of little improvements in terms of development processes and tools. But the most part of my programming time was dedicated to refactoring.
-          Many core parts of the backend system were refactored. Speaking of technologies it was mostly <mark>JavaSE</mark> development including <mark>Multithreading</mark>, <mark>Network</mark>, <mark>Algos</mark> and so on.
-
-          The second part was the <mark>leadership</mark> part. As a Lead Java Developer, I was focused on increasing performance and making the working process more comfortable for the team.
-          We made a lot of work on <mark>communications</mark> and <mark>transparency</mark> inside the team(daily meetings, retrospectives, code style guides, code review practice). 
-          Coaching, inspiration, motivation, facilitation... Everything that a typical lead should do :)
-
-          In the last couple of months, I'm working as a <mark>Project Lead</mark>. There were a lot of small "achievements" for past months, so it's very hard to describe them.
-          The only reasonable thing that I can do is to describe my duties and say that the project is progressing very well :) 
-
-          My duties as a Project lead: 
-            * To build and keep <mark>effective сommunications</mark> between teams.
-            * To keep the teams <mark>focused on project's goals</mark>
-            * Provide <mark>support</mark> to the development teams, business, and external partners.
-            * Keep the project <mark>on the track</mark>
-            * Resolve conflicts, bottlenecks, and other problems which are connected to the technical part of the project
+          Distributed HA backend for gambling industry. Speaking of technologies it was mostly <mark>JavaSE</mark> development including <mark>Multithreading</mark>, <mark>Network</mark>, <mark>Algos</mark> and so on.
       - layout: left
         title: Luxoft (Customer - BT Global Services)
         link: luxoft.com
