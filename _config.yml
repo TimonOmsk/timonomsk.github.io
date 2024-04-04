@@ -6,18 +6,17 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Dmitry Golushko, 32yrs
+name: Dmitry Golushko, 34yrs
 title: Golang Developer, Java Developer, Team Lead
-email: dmitry@golushko.me
-website: golushko.me
-cv_link: https://golushko.me/images/DmitryGolushkoCV_short.pdf
+email: job.dmitry.golushko@proton.me
+website: https://timonomsk.github.io/
+cv_link: https://timonomsk.github.io/images/DmitryGolushkoCV_short.pdf
 cv_name: Dmitry Golushko CV 
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-instagram_username: timonomsk
 linkedin_username: dgolushko
 github_username: TimonOmsk
 
@@ -28,16 +27,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dmitry and I'm a <mark>Golang Developer</mark> and ex-<mark>Java Developer</mark>. 
 
   Main things you need to know about me:
-  * Golang. I've started with internals of Golang in Micro Focus Fortify SCA and now working with <mark>Cloud-native</mark> <mark>Kubernetes</mark> application.
+  * Golang. I've started with internals of Golang in Micro Focus Fortify SCA and now I'm working with <mark>Cloud-native</mark> <mark>Kubernetes</mark> application.
   * Good knowledge of the JVM platform. Including <mark>JMM</mark> <mark>Multithreading</mark> <mark>Collections</mark>
   * I'm not afraid of <mark>legacy code</mark>(although as a typical developer I prefer the greenfield projects)   
-    
-  Other facts :) :
   * <mark>Responsibility</mark>. And by "responsibility" I mean that I'm ready to take responsibility for a feature, for a team, for a project.
-  * I tried the different versions of <mark>Scrum</mark> :) From ScrumBut to canonical Scrum
-  * I made about 100 <mark>interviews</mark> for java developer position(with different seniority level, from juniors to seniors)
-  * Experience in <mark>team transformation</mark>
-  * Experience in <mark>building a team</mark>(and a project) from the scratch
 
   A little bit of personal philosophy
   
@@ -56,11 +49,13 @@ content:
         sub_title: Software Developer
         caption: November 2021 - Present
         quote: >
-          <mark>Golang</mark> <mark>Kubernetes</mark> <mark>Helm</mark> <mark>EKS</mark>
+          <mark>Golang</mark> <mark>Kubernetes</mark> <mark>Helm</mark> <mark>Openshift</mark> <mark>Docker</mark>
         description: |
-          K8s native backup solution. Working on all parts of K10 by Veeam. Hard to tell about the ongoing project.
-          Heh... doing everything the project needs.
-          For example, I made a PR for 3rd party project to get the support for IPv6 family(I hope when you're reading this that PR has been already merged - https://github.com/emissary-ingress/emissary/pull/4301)
+          Kubernetes data protection solution. Golang, Kubernetes, Helm, Openshift, Docker, K8s Custom Resources, OpenAPI. 
+          Here is some public examples of my work:
+          * https://github.com/emissary-ingress/emissary/pull/4301 - Fix for Emissary-ingress Gateway API server for IPv6 compatibility
+          * https://github.com/VeeamHub/veeam-vbr-sdk-go/ - New version of Golang client for VBR REST API 
+          * https://github.com/kanisterio/kanister/commits/master/?author=TimonOmsk - Commits into opensource project internally used by K10 (donated to CNCF)
       - layout: left
         title: Micro Focus - Fortify Static Code Analyzer
         link: https://www.microfocus.com/en-us/products/static-code-analysis-sast/overview
@@ -78,7 +73,7 @@ content:
         caption: February 2018 - May 2020 (remote since May`19)
         quote: >
           <mark>Java</mark> <mark>Akka</mark> <mark>Netty</mark> <mark>PostgreSQL</mark> <mark>Agile</mark> <mark>Scrum</mark> <mark>People Management</mark> <mark>Interviews</mark> <mark>Lead</mark>
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           I can split my work into two parts. The first part is the programming. It was around 70% of all time.
           The backend team was very stable for the last couple of years so I was hired as a skilled developer to bring some new wave into the team. 
           I made a lot of little improvements in terms of development processes and tools. But the most part of my programming time was dedicated to refactoring.
@@ -104,7 +99,7 @@ content:
         caption: October 2017 - February 2018
         quote: >
           <mark>Java</mark> <mark>Micro Focus Fortify</mark> <mark>OWASP</mark> <mark>Application Security</mark> <mark>SonarQube</mark>
-        description: | # this will include new lines to allow paragraphs       
+        description: |      
           A little experiment with another specialization. I learned about tools for security and penetration testing, typical applications' vulnerabilities(XSS, SQL Injection, Clickjacking, etc.) and other security risks.
           My duties were reviewing source code to find potential vulnerabilities and provide recommendations for avoiding those vulnerabilities.
       - layout: left
@@ -114,7 +109,7 @@ content:
         caption: April 2016 - September 2017
         quote: >
           <mark>Java</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>IBM DB2</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Javascript</mark>
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Project for communication between the bank and the Federal Tax Department
 
           From the tech side, it was a typical enterprise project with Spring and Hibernate on the backend and HTML, CSS, Jquery on the frontend. Nothing special, no rocket science.
@@ -172,17 +167,6 @@ content:
           * <mark>Russian</mark> - Native
           * <mark>English</mark> - Professional working proficiency
           * <mark>Czech</mark> - Limited Working Proficiency
-  - title: A Little More About Me
-    layout: text
-    content: |  
-      You won't find any of my projects in open source. It's not because I'm a lazy person :) 
-      I would better make some additional stuff for my main job(helpful utils, research, experiments).
-      My job is always my hobby and I will do my best to achieve my current project's goals. 
-      
-      But job is not the only thing that I like :) So here is some things that I like besides my job
-      * Collectible card games like Magic The Gathering, Gwent.  
-      * Cars. I really enjoy driving. I can spend hours just driving around the city. 
-      * My family :) 
 
 # Footer
 footer_show_references: true
